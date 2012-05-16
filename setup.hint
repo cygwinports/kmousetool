@@ -1,0 +1,8 @@
+category: KDE Accessibility
+requires: libgcc1 libkdecore5 libphonon4 libQtCore4 libQtGui4 libstdc++6 libX11_6 libXtst6
+sdesc: "KDE mouse button tool"
+ldesc: "KDE accessibility suite:
+* kmag: screen magnifier
+* kmousetool: clicks mouse button automatically based on mouse movements
+* kmouth: speech synthesizer frontend
+* kttsd: text-to-speech engine"
